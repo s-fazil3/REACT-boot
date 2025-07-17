@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="804670ec-db65-4750-b6c7-460bfe19f9f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/SpringbootfirstApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/config/SpringConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/controllers/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/controllers/ClacController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/controllers/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/controllers/TaskControllers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/jwt/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/jwt/JwtTokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/Calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/JsonResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/LoginResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/RegisterDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/Roles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/Tasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/models/UserDetailsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/repository/RegisterDetailsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/repository/RegisterRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/repository/RolesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/repository/TaskRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/services/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/services/Clacservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/services/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/services/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/services/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/java/com/example/springbootfirst/services/TaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/test/java/com/example/springbootfirst/Controller/AuthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/test/java/com/example/springbootfirst/Controller/Calctezt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/test/java/com/example/springbootfirst/Controller/EmployeeControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/test/java/com/example/springbootfirst/Controller/HelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/test/java/com/example/springbootfirst/Services/EmployeeServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Day-12/src/test/java/com/example/springbootfirst/SpringbootfirstApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/junit/ast7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit/junit/ast7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/junit/ast7/src/main/java/com/example/ast7/Ast7Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/junit/ast7/src/main/java/com/example/ast7/Ast7Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/junit/ast7/src/main/java/com/example/ast7/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/junit/ast7/src/main/java/com/example/ast7/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/junit/ast7/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/junit/junit/ast7/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-task/.idea/todo-task.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/junit/junit" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;s-fazil3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/s-fazil3/REACT-boot-day9.git&quot;,
+    &quot;accountId&quot;: &quot;99e5f7a5-8d25-4a0f-880d-414291a9de46&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zwSkzcg04L5BwhqqnAcusVkV8V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ast7Application.executor": "Run",
+    "JUnit.EmployeeServiceTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/fzfaz/Downloads/trivia-master backend",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="804670ec-db65-4750-b6c7-460bfe19f9f4" name="Changes" comment="" />
+      <created>1752640791614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752640791614</updated>
+    </task>
+    <servers />
+  </component>
+</project>
